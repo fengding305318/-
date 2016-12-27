@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\fengding\\ADB\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\menu\\em_delete_message.xml",
+        "source": "C:\\fengding\\ADB\\ChatDemoUI3.0\\res\\menu\\em_delete_message.xml"
+    },
+    {
+        "merged": "C:\\fengding\\ADB\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\menu\\em_context_contact_list.xml",
+        "source": "C:\\fengding\\ADB\\ChatDemoUI3.0\\res\\menu\\em_context_contact_list.xml"
+    },
+    {
+        "merged": "C:\\fengding\\ADB\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\menu\\em_delete_contact.xml",
+        "source": "C:\\fengding\\ADB\\ChatDemoUI3.0\\res\\menu\\em_delete_contact.xml"
+    },
+    {
+        "merged": "C:\\fengding\\ADB\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\menu\\em_context_tab_contact.xml",
+        "source": "C:\\fengding\\ADB\\ChatDemoUI3.0\\res\\menu\\em_context_tab_contact.xml"
+    },
+    {
+        "merged": "C:\\fengding\\ADB\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\menu\\em_remove_from_blacklist.xml",
+        "source": "C:\\fengding\\ADB\\ChatDemoUI3.0\\res\\menu\\em_remove_from_blacklist.xml"
+    }
+]
